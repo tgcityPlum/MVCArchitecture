@@ -1,0 +1,15 @@
+# -----项目外层-----
+*.iml
+.gradle
+.idea
+/build
+/gradle
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+
+# -----项目app层-----
+/app/build
+/app/src/androidTest
+/app/src/test
